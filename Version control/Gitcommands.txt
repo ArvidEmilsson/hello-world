@@ -1,0 +1,8 @@
+cd - change directory
+dir - show documents/contents
+git clone - copy from repository
+git status - compare to the skystored file
+git add - adds whatever in the selected file
+git commit - lock in to the repository
+git push
+git pull
